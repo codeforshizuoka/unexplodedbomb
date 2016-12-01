@@ -529,7 +529,7 @@
         ]
       },
       "properties": {
-        "name": "静岡県浜松市中区南伊場町１ ＪＲ東海浜松工場 から 処理地点 へのルート"
+        "name": "ＪＲ東海浜松工場 から 処理地点 へのルート"
       }
     },
     {
@@ -1035,8 +1035,6 @@
       },
       "properties": {
         "name": "可美公園総合センター",
-        "styleUrl": "#icon-1899-0F9D58-nodesc",
-        "styleHash": "2f544a48"
       }
     },
     {
@@ -1051,8 +1049,6 @@
       },
       "properties": {
         "name": "新橋体育センター",
-        "styleUrl": "#icon-1899-0F9D58-nodesc",
-        "styleHash": "2f544a48"
       }
     },
     {
@@ -1067,8 +1063,6 @@
       },
       "properties": {
         "name": "県居小学校",
-        "styleUrl": "#icon-1899-0F9D58-nodesc",
-        "styleHash": "2f544a48"
       }
     },
     {
@@ -1083,8 +1077,6 @@
       },
       "properties": {
         "name": "鴨江小学校",
-        "styleUrl": "#icon-1899-0F9D58-nodesc",
-        "styleHash": "2f544a48"
       }
     },
     {
@@ -1099,8 +1091,6 @@
       },
       "properties": {
         "name": "江西中学校",
-        "styleUrl": "#icon-1899-0F9D58-nodesc",
-        "styleHash": "2f544a48"
       }
     },
     {
@@ -1115,8 +1105,6 @@
       },
       "properties": {
         "name": "可美協働センター",
-        "styleUrl": "#icon-1899-0F9D58-nodesc",
-        "styleHash": "2f544a48"
       }
     }
   ]
