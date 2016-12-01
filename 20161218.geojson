@@ -530,7 +530,8 @@
       },
       "properties": {
         "name": "静岡県浜松市中区南伊場町１ ＪＲ東海浜松工場 から 処理地点 へのルート",
-        "styleUrl": ""
+        "stroke": "#ff0000",
+        "stroke-width": 5
       }
     },
     {
@@ -1021,6 +1022,11 @@
         ]
       },
       "properties": {
+        "stroke": "#111111",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffd700",
+        "fill-opacity": 0.5,
         "name": "避難区域"
       }
     },
@@ -1035,8 +1041,10 @@
         ]
       },
       "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "可美公園総合センター",
-        "styleUrl": "",
         "styleHash": ""
       }
     },
@@ -1051,8 +1059,10 @@
         ]
       },
       "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "新橋体育センター",
-        "styleUrl": "",
         "styleHash": ""
       }
     },
@@ -1067,8 +1077,10 @@
         ]
       },
       "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "県居小学校",
-        "styleUrl": "",
         "styleHash": ""
       }
     },
@@ -1083,8 +1095,10 @@
         ]
       },
       "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "鴨江小学校",
-        "styleUrl": "",
         "styleHash": ""
       }
     },
@@ -1099,8 +1113,10 @@
         ]
       },
       "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "江西中学校",
-        "styleUrl": "",
         "styleHash": ""
       }
     },
@@ -1115,8 +1131,10 @@
         ]
       },
       "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "可美協働センター",
-        "styleUrl": "",
         "styleHash": ""
       }
     }
